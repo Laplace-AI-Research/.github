@@ -16,6 +16,6 @@ Our work centers on:
 
 ## Contact
 
-- **Web** — [laplaceresearch.org](https://laplaceresearch.org) · [@laplaceaires](https://x.com/laplaceaires)
-- **Arya Somu** — [aryasomu.com](https://aryasomu.com) · arya@laplaceresearch.org
-- **Bruce Nshuti Hirwa** — [brucenh.com](https://brucenh.com) · bruce@laplaceresearch.org
+- **Web**: [laplaceresearch.org](https://laplaceresearch.org) · [@laplaceaires](https://x.com/laplaceaires) · [Hugging Face](https://huggingface.co/Laplace-AI-Research)
+- **Arya Somu**: [aryasomu.com](https://aryasomu.com) · [arya@laplaceresearch.org](mailto:arya@laplaceresearch.org)
+- **Bruce Nshuti Hirwa**: [brucenh.com](https://brucenh.com) · [bruce@laplaceresearch.org](mailto:bruce@laplaceresearch.org)

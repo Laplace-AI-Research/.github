@@ -14,8 +14,8 @@ Our work centers on:
 4. Evaluation discipline: preregistration, correction for multiple comparisons,
    and publishing results that don't work.
 
-## Contact
+Contact
 
-- **Web**: [laplaceresearch.org](https://laplaceresearch.org) · [@laplaceaires](https://x.com/laplaceaires) · [Hugging Face](https://huggingface.co/Laplace-AI-Research)
-- **Arya Somu**: [aryasomu.com](https://aryasomu.com) · [arya@laplaceresearch.org](mailto:arya@laplaceresearch.org)
-- **Bruce Nshuti Hirwa**: [brucenh.com](https://brucenh.com) · [bruce@laplaceresearch.org](mailto:bruce@laplaceresearch.org)
+1. **Web**: [laplaceresearch.org](https://laplaceresearch.org) · [@laplaceaires](https://x.com/laplaceaires) · [Hugging Face](https://huggingface.co/Laplace-AI-Research)
+2. **Arya Somu**: [aryasomu.com](https://aryasomu.com) · [arya@laplaceresearch.org](mailto:arya@laplaceresearch.org)
+3. **Bruce Nshuti Hirwa**: [brucenh.com](https://brucenh.com) · [bruce@laplaceresearch.org](mailto:bruce@laplaceresearch.org)

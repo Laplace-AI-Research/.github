@@ -4,4 +4,4 @@ Language models that know what they don't know. We build calibrated forecasting 
 
 Founded by [Arya Somu](https://aryasomu.com) and [Bruce Nshuti Hirwa](https://brucenh.com)
 
-[Website](https://laplaceresearch.org) · [Email](mailto:inquiries@laplaceresearch.org) · [𝕏](https://x.com/laplaceaires) · [Hugging Face](https://huggingface.co/Laplace-AI-Research)
+[Website](https://laplaceresearch.org) · [Email](mailto:inquiries@laplaceresearch.org) · [𝕏](https://x.com/laplaceaires) · [Hugging Face](https://huggingface.co/Laplace-AI-Research) · [LinkedIn](https://www.linkedin.com/company/laplaceairesearch)
